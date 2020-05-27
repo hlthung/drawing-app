@@ -22,8 +22,7 @@ public class Model extends JPanel implements MouseListener, MouseMotionListener 
 	Object item;
 	String pos, indName;
 	int ind;
-	private JScrollPane scrollBar;
-
+	
 	public Model() {
 		pos = "";
 		indName = "";
