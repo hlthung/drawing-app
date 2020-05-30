@@ -1,5 +1,5 @@
-# paint-simulator
+# Drawing App
 
-A JSketch program that adapts MVC design pattern
+A paint program that allows user to draw different shapes, with control colors, move, delete, resize, save, new, load etc functions.
 
 ![alt text](https://github.com/hlthung/paint-simulator/blob/master/img/drawing.png)
